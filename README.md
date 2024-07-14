@@ -86,7 +86,7 @@
 ## Stats
 
 <div align="center">
-<img  src="https://raw.githubusercontent.com/Umeshsuman/Umeshsuman/output/github-contribution-grid-snake.svg" alt="contribution graph" />
+<img  src="https://raw.githubusercontent.com/Umeshsuman/umeshsuman/output/github-contribution-grid-snake.svg" alt="contribution graph" />
 </div>
 <br>
 
