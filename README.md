@@ -13,7 +13,7 @@
 
 <p align="center"> 
   <samp>
-    <!-- <a href="https://www.google.com/search?q=Al+Siam">「 Google Me 」</a>
+    <!-- <a href="https://www.google.com/search?q=Umesh+suman">「 Google Me 」</a>
     <br> -->
     「 I am a Frontend web application developer from <b>India</b> 」
     <br>
@@ -32,12 +32,13 @@
  <a href="https://x.com/bc1656a9028846a" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
  </a>
- <!-- <a href="https://instagram.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="" />
- </a>  -->
+ 
  <a href="https://www.facebook.com/umesh.suman/" target="_blank">
   <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="Umesh suman"  />
   </a> 
+  <!-- <a href="https://instagram.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="" />
+ </a>  -->
 </p>
 <br />
 
@@ -71,16 +72,17 @@
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![SASS Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-<!-- ![Ant-Design](https://img.shields.io/badge/AntDesign-0170FE?style=for-the-badge&logo=antdesign&logoColor=white) -->
+
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-<!-- ![Strapi](https://img.shields.io/badge/strapi-2E7EEA?style=for-the-badge&logo=strapi&logoColor=white) -->
-<!-- ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white) -->
+
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![React Query](https://img.shields.io/badge/-React_Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
+<!-- ![Strapi](https://img.shields.io/badge/strapi-2E7EEA?style=for-the-badge&logo=strapi&logoColor=white) -->
+<!-- ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white) -->
+<!-- ![Ant-Design](https://img.shields.io/badge/AntDesign-0170FE?style=for-the-badge&logo=antdesign&logoColor=white) -->
 <br/>
 
 ## Stats
@@ -98,18 +100,18 @@
 
 <p align="center">
   <a href="https://github.com/Umeshsuman">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Umeshsuman&theme=radical" alt="Al Siam's GitHub Contribution"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Umeshsuman&theme=radical" alt="Umesh suman's GitHub Contribution"/>
   </a>
 </p>
 
 <a> 
-    <a href="https://github.com/Umeshsuman"><img alt="Al Siam's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Umeshsuman&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+    <a href="https://github.com/Umeshsuman"><img alt="Umesh suman's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Umeshsuman&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <a href="https://github.com/Umeshsuman"><img alt="Umesh suman's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Umeshsuman&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
 </a>
 
 
-![Umesh Suman's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Umeshsuman&custom_title=Al%20Siam's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![Umesh Suman's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Umeshsuman&custom_title=Umesh%20Suman's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
 
 
@@ -117,4 +119,3 @@
 
 
 <!-- [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,sass,bootstrap,tailwind,react,redux,nextjs,figma,git,github,nodejs,mongodb,flutter)](https://skillicons.dev) -->
-
