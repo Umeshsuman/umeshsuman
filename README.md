@@ -15,7 +15,7 @@
   <samp>
     <!-- <a href="https://www.google.com/search?q=Umesh+suman">「 Google Me 」</a>
     <br> -->
-    「 I am a Frontend web application developer from <b>India</b> 」
+    「 I am a Fullstack developer from <b>India</b> 」
     <br>
     <br>
   </samp>
